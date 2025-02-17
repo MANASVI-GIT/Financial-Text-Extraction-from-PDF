@@ -1,0 +1,33 @@
+{
+    "Company Name": "Eveready Industries India Ltd.",
+    "Financial Data": {
+        "Particulars": {
+            "Q3 2024": "3 months ended (31/12/2024)",
+            "Q2 2024": "Preceding 3 months ended (30/09/2024)"
+        },
+        "Revenue from operations": {
+            "Q3 2024": "333.29",
+            "Q2 2024": "362.44"
+        },
+        "Other Income": {
+            "Q3 2024": "0.30",
+            "Q2 2024": "0.67"
+        },
+        "Total Income": {
+            "Q3 2024": "333.59",
+            "Q2 2024": "363.11"
+        },
+        "Expenses": {
+            "Q3 2024": "311.71",
+            "Q2 2024": "328.15"
+        },
+        "Profit Before Tax": {
+            "Q3 2024": "15.88",
+            "Q2 2024": "34.96"
+        },
+        "Profit After Tax": {
+            "Q3 2024": "13.05",
+            "Q2 2024": "29.50"
+        }
+    }
+}
